@@ -9,7 +9,7 @@
 
 **環境構築不要！ブラウザだけで今すぐ試せます。**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goto-a-toast/goto-a-toast.github.io/blob/claude/lstm-stock-prediction-83Fof/stock_prediction/LSTM_Stock_Prediction_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goto-a-toast/LSTM-stock-pred/blob/main/lstm-stock-prediction-83Fof/stock_prediction/LSTM_Stock_Prediction_Colab.ipynb)
 
 ### Google Colabとは？
 
